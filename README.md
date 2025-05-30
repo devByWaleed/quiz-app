@@ -41,4 +41,4 @@ Currently, two official plugins are available:
 **Usage:**  
 Access the `React Quiz App` application through the web browser. 
 
-https://.github.io/quiz-app/
+https://devByWaleed.github.io/quiz-app/
